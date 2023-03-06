@@ -1,4 +1,4 @@
-# cy-data-test
+# Personal-Project-CAC-TAT
 
 Sample project for a test automation personal project of application "CAC TAT"
 
