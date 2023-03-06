@@ -25,4 +25,4 @@ If you want to support this project, leave a ⭐.
 
 ___
 
-This project was created with Mauricio Pereira.
+This project was created by Mauricio Pereira.
