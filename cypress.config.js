@@ -10,4 +10,5 @@ module.exports = defineConfig({
         this.viewportWidth=768
     },
   },
+  
 });
